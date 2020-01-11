@@ -13,3 +13,13 @@
 9. [Librivox](https://librivox.org/)
 10. [PDF Books World](https://www.pdfbooksworld.com/)
 
+## PLatforms to learn for Free
+
+1. [Freecodecamp](https://www.freecodecamp.org/learn/)
+2. [Coursera](https://www.coursera.org/)
+3. [Learn with Google](https://learndigital.withgoogle.com/digitalunlocked)
+4. [Class Central](https://www.classcentral.com/#)
+5. [Python for Everybody](https://www.py4e.com/lessons)
+6. [FullStack Open](https://fullstackopen.com/en/)
+7. [Hacker101](https://www.hacker101.com/)
+
