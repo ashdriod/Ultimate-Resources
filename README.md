@@ -22,4 +22,21 @@
 5. [Python for Everybody](https://www.py4e.com/lessons)
 6. [FullStack Open](https://fullstackopen.com/en/)
 7. [Hacker101](https://www.hacker101.com/)
+8. [Codecademy](https://www.codecademy.com/)
+9. [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+10.[Stanford Online](https://online.stanford.edu/)
+
+
+
+##Top 10 Tech Skills in demand
+1. Machine Learning
+2. Mobile Development
+3. SEO/SEM Marketing
+4. Data Visualization
+5. Data Engineering
+6. UI/UX Design
+7. Cyber-security
+8. Cloud Computing/AWS
+9. Blockchain
+10. IOT
 
