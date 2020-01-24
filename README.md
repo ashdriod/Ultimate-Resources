@@ -24,7 +24,7 @@
 7. [Hacker101](https://www.hacker101.com/)
 8. [Codecademy](https://www.codecademy.com/)
 9. [MIT OpenCourseWare](https://ocw.mit.edu/index.html/)
-10.[Stanford Online](https://online.stanford.edu/)
+10. [Stanford Online](https://online.stanford.edu/)
 
 
 
